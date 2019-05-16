@@ -1,7 +1,7 @@
 {
-  "name": "node-apps",
+  "name": "lab-04-buffers",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Before you begin * Create a new git repository for this lab * Copy the starter-code contents into it * You'll need to initialize this lab folder as a new node module, install your dependencies, setup your npm script commands, and pull in your config files",
   "main": "promises.test.js",
   "directories": {
     "doc": "docs"
@@ -15,5 +15,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-bp/lab-04-buffers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-bp/lab-04-buffers/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-bp/lab-04-buffers#readme"
 }
